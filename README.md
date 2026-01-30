@@ -8,8 +8,7 @@ Recent media has talked a lot about the decline of the UK passenger rail industr
 
 Two reseach questions were established:
   RQ1: To what extent does network usage and intensity affect PPM?
-
-	RQ2: Can we reliably predict PPM using network usage and intensity factors?
+  RQ2: Can we reliably predict PPM using network usage and intensity factors?
 
 ## Data and Methodology 
 Data was downloaded from the ORR Data Catalogue (https://dataportal.orr.gov.uk/data-table-catalogue/), extracted into excel, then cleaned and analysed in R. A tuned elastic net model was used within the R tidymodel and associated package workflow. Iniitally, other factors (e.g. funding statistics) were downloaded, extracted, and entered into R. This is because the data is shared with another IJC project, Data Visualisation. A repository for that project will be on my profile shortly. In order to retain ease of use, the code for cleaning and removing this data was preserved in this project. 
