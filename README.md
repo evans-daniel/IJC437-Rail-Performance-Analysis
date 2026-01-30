@@ -7,7 +7,9 @@ This project examined the association between rail usage and strain on the Offic
 Recent media has talked a lot about the decline of the UK passenger rail industry. This paper examined the performance of it, and aimed to create a prediction model of PPM given some basic operator metrics regarding passengers and other details. 
 
 Two reseach questions were established:
+
   RQ1: To what extent does network usage and intensity affect PPM?
+  
   RQ2: Can we reliably predict PPM using network usage and intensity factors?
 
 ## Data and Methodology 
